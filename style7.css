@@ -10,7 +10,7 @@
 }
 
 .header{
-	background: url(https://cdn-ua.volkswagen.at/media/Abstract_Image_B1280_Component.Box_Stage_Parallax_StageList_Item_Image_Component/7123-stage-stageList-787492-image-b1280/dh-1285-c3e357/519efeee/1658737815/T-Roc%20TC0892_4K.jpeg);
+	background: url(https://pbs.twimg.com/media/FdvCGJeWYAM3Smd?format=jpg&name=small);
 	background-attachment: fixed;
 	background-size: cover;
 }
@@ -39,11 +39,11 @@
 	font-size: 1.5rem;
 }
 
-.about, .cars, .tradein, .products, .team, .contact{
+.about, .cats, .tradein, .more-cats, .team, .contact{
 	padding: 4em;
 }
 
-.about h1, .cars h1, .tradein h1, .products h1, .team h1{
+.about h1, .cats h1, .tradein h1, .more-cats h1, .team h1{
 	padding-bottom: 1.5em;
 }
 
@@ -51,7 +51,7 @@
 	padding: 0 3em;
 }
 
-.cars, .products{
+.cats, .more-cats{
 	background: #343a40;
 	color: white;
 }
@@ -60,7 +60,7 @@
 	background: white;
 	color: #343a40;
 }
-.black-text, .products{
+.black-text, .more-cats{
 	color: black;
 }
 .team img{
@@ -69,6 +69,6 @@
 .personDesciption, .contact{
 	
 }
-.products h1{
+.more-cats h1{
 	color: white;
 }
